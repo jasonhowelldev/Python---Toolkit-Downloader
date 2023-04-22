@@ -1,0 +1,5 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+download-installer.cdn.mozilla.net	0	0	1682138724	31536000
+osdn.net	0	0	1682138723	31536000
